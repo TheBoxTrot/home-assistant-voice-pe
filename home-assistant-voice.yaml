@@ -1718,7 +1718,7 @@ micro_wake_word:
   models:
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
-    - model: https://github.com/TheBoxTrot/Glados-Wake-Word/blob/main/hey_glados.json
+    - model: https://github.com/TheBoxTrot/Glados-Wake-Word/raw/main/hey_glados.json
       id: hey_glados
     - model: hey_jarvis
       id: hey_jarvis
