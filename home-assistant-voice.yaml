@@ -1554,7 +1554,8 @@ speaker:
 
 sendspin:
   id: sendspin_hub
-  task_stack_in_psram: false
+  task_stack_in_psram: true
+  kalman_process_error: 0.01
 
 http_request:
 
